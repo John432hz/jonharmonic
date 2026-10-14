@@ -1,0 +1,29 @@
+{
+  "_readme": "Jon's crypto addresses. A wallet with an empty 'address' is hidden automatically; fill in an address and it appears (with QR, generated locally). Card donations stay in TEST mode separately (server/Stripe), not configured here.",
+  "wallets": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "network": "Bitcoin",
+      "address": ""
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "network": "Ethereum (ERC-20)",
+      "address": "0x72A9702137582dfB52078780F74Af62fb06004d6"
+    },
+    {
+      "symbol": "USDT",
+      "name": "Tether",
+      "network": "Ethereum (ERC-20)",
+      "address": "0x72A9702137582dfB52078780F74Af62fb06004d6"
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "network": "Solana",
+      "address": ""
+    }
+  ]
+}
